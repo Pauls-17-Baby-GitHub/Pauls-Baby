@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Pauls-Baby
-- 👀 I’m interested in Artificial Intelligence, Computer Vision and Web Development
+- 👀 I am a blooming Software Developer particularly interested in Artificial Intelligence, Computer Vision and Web Development
 - 🌱 I’m currently a final year B.Tech Computer Science student
 - 📫 You can reach me @ paulsbaby46@gmail.com
 
